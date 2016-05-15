@@ -1,1 +1,1 @@
-# Specification for gwen
+# Specification for cppgui
